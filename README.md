@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard for exploring how the size of **180 economies** changed between **1999 and 2022**: rank countries, compare their growth paths, and find the fastest growers and biggest decliners.
 
-**Live demo:** [ADD YOUR STREAMLIT APP LINK HERE](https://your-app-name.streamlit.app)
+**Live demo:** [ADD YOUR STREAMLIT APP LINK HERE]([https://your-app-name.streamlit.app](https://global-gdp-dashboard-czwyef3ueey6cscv4ger97.streamlit.app/))
 
 
 ![Dashboard screenshot](assets/Global-GDP-Dashboard.png)
