@@ -29,8 +29,8 @@ Every table can be downloaded as CSV.
 ## Data
 
 - **Source:** Kaggle
-- **Unit:** nominal GDP in US$ billions (edit `UNIT` in `data.py` if your source says otherwise).
-- **Coverage:** 180 economies, 1999 to 2022 (2011 is missing from the source file).
+- **Unit:** nominal GDP in US$ billions.
+- **Coverage:** 180 economies, 1999 to 2022.
 
 ### Cleaning decisions (and why)
 
